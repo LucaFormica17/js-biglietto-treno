@@ -13,11 +13,13 @@ PROBLEMA
 1 - chiedere distanza da percorrere in km
     1.1 - creare prompt dove chiediere i km da percorrere
     1.2 - assegnare il precedente valore a una variabile
+    1.3 - moltiplicare il valore per la costante 'prezzo al km' (0.21) 
 2 - chiedere età del passeggero
     2.1 - creare prompt dove chiediere l'età del passeggero
     2.2 - assegnare il precedente valore a una variabile
 3 - calcolare il prezzo del biglietto moltiplicando le due variabili        ottenute prima e applicare lo sconto
-    3.1 - assegnare valore a variabile
+    3.1 - creare variabile sconto
+    3.2 - assegnare valore a variabile
 4 - condizionare lo sconto applicato al prezzo del biglietto 
     4.1 - se l'età è inferiore a 18 applicare il 20%
     4.2 - se l'età è compresa tra 18 e 65 (escluso) non si applica sconto
